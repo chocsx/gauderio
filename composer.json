@@ -1,0 +1,14 @@
+{
+    "name": "chocsx/gauderio-framework",
+    "description": "A php framework",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mateus Sobrinho",
+            "email": "chocsx@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
